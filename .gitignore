@@ -1,0 +1,7 @@
+*.alcache
+*.app
+*.flf
+TestResults.xml
+rad.json
+.output
+
